@@ -1,4 +1,4 @@
-# Tokopedia-Webscrapping
+# Tokopedia-Webscraping
 script digunakan untuk mengambil beberapa data dari sebuah produk di Tokopedia   
 
 Variable yang di ambil : nama, harga , penjualan dan rating sebuah produk  
